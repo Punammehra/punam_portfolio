@@ -23,6 +23,16 @@ export const ProjectList = [
    
     deploy_url:"https://awesome-lumiere-10c9b3.netlify.app/",
   },
+  {
+    img: "./resources/tumbler.png",
+    title: "Tumbler",
+    description:
+      "Created clone of Tervis tumblers, water bottles & more. Thousands of designs. Customize with your photos, or add a name or monogram",
+    tech_stack: "React ,Redux",
+    github_url: "https://github.com/Punammehra/tumbler",
+   
+    deploy_url:"https://tervis-clone.netlify.app/",
+  },
 ];
 
 // --------------------------------------- Skills
